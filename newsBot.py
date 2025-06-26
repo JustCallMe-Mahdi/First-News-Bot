@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import feedparser
 
-token = '7284726306:AAHHNV3tKFNvM3FrCh7xq3PLoR-22EXG8FY'  # توکن رباتتو اینجا بگذار
+token = '<Put your token here>'
 bot = telebot.TeleBot(token)
 
 # لینک‌های RSS منابع خبری
